@@ -1,5 +1,6 @@
-# Api-Rest-Spring-bootAPI REST / SPRING BOOT
-@Controller @Request @Response
+# API REST / SPRING BOOT Spring-boot
+@Controller @Request @Response @Parametros 
+#Metodos IMC | IRF | IDADE | VALIDAÇÔES ESPORTES | COTA DOLAR | 
 Objeto Pessoa e o resumo do Objeto
 /pessoa/resumo?valida_mundial=true
 
