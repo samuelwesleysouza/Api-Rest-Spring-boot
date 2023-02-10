@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Api-Rest-Spring-boot.iml" filepath="$PROJECT_DIR$/.idea/Api-Rest-Spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/var.solutions/var.solutions.iml" filepath="$PROJECT_DIR$/var.solutions/var.solutions.iml" />
+    </modules>
+  </component>
+</project>
